@@ -80,18 +80,32 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kresnawijayaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--START_SECTION:waka-->
+## 🏆 Certifications:
 
-(Your WakaTime stats will appear here once you've integrated it with `anmol098/waka-readme-stats`)
+### HackerRank:
 
-<!--END_SECTION:waka-->
+- JavaScript (Basic) - [Certificate](https://www.hackerrank.com/certificates/a9a9b5529e37) - Issued: October 2023
+- SQL (Basic) - [Certificate](https://www.hackerrank.com/certificates/2bc6ba5986ea) - Issued: October 2023
+- Node (Basic) - [Certificate](https://www.hackerrank.com/certificates/1c5d87d23ca5) - Issued: October 2023
+- React (Basic) - [Certificate](https://www.hackerrank.com/certificates/602332e6acde) - Issued: October 2023
+- CSS - [Certificate](https://www.hackerrank.com/certificates/f7735c1c2e33) - Issued: October 2023
 
-## 🌟 Highlights:
+### Dicoding Indonesia:
 
-- 🔖 Published [number of] articles on [Medium](https://medium.com/@your_handle)
-- 🏆 Winner of [Competition Name] in [Year]
-- 🎤 Speaker at [Event Name]
+- Dasar Pemrograman JavaScript - [Certificate](https://www.dicoding.com/certificates/KEXLLQVNMXG2) - Issued: October 2023
+- Dasar Pemrograman Web - [Certificate](https://www.dicoding.com/certificates/N9ZO5N1GYPG5) - Issued: October 2023
+- Membuat Aplikasi Back-End - [Certificate](https://www.dicoding.com/certificates/6RPN47JO4X2M) - Issued: October 2023
+- Membuat Front-End Web - [Certificate](https://www.dicoding.com/certificates/EYX4YQN3RZDL) - Issued: October 2023
+- Cloud Practitioner Essentials (Dasar AWS Cloud) - [Certificate](https://www.dicoding.com/certificates/GRX52WMRVX0M) - Issued: October 2023
+
+### BuildWithAngga:
+
+- Complete UI Designer: Visual Design, Prototype, Usability Testing - [Certificate](https://buildwithangga.com/) (qj1hWVNcVP) - Issued: October 2022
+
+### Skilvul:
+
+- UI/UX Design Mastery - [Certificate](https://badgr.com/public/assertions/3CC3pcsvQ1OWCv2BxvrB0w?identity__email=wkresna511.kw@gmail.com) (3CC3pcsvQ1OWCv2BxvrB0w) - Issued: August 2022
 
 💼 **Looking for a new opportunity?** Let's collaborate and make something amazing!
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kresnawijayaa&theme=dark)](https://git.io/streak-stats)
