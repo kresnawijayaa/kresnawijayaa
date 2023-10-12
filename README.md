@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Kresna Wijaya!
 
-👨‍💻 Hey there! I'm a passionate software engineer from Jakarta, Indonesia 🌏. Armed with a degree in Computer Science 🎓 and supercharged by Hacktiv8's Full Stack JavaScript bootcamp 🚀, I've honed my skills in crafting user-centric software that's both techie 🖥️ and artsy 🎨. Dive into my portfolio and you'll find a harmonious blend of code and creativity! My mission? To democratize technology 💡 and ensure it's not only powerful but also a delight to use 💖. Let's turn those tech dreams into digital realities! 🌟👩‍💻🌈.
+👨‍💻 Hey there! I'm a passionate software engineer from Jakarta, Indonesia. Armed with a degree in Computer Science and bolstered by Hacktiv8's Full Stack JavaScript bootcamp, I've refined my skills in creating user-centric software that's both technically sound and aesthetically pleasing. Explore my portfolio to discover a seamless blend of code and creativity. My mission is to democratize technology and ensure it's not only robust but also delightful to use. Let's transform those tech visions into digital realities! 🌟.
 
 ## 🙋‍♂️ About Me:
 
