@@ -24,6 +24,8 @@
 
 ## 🌍 Social Media:
 
+(👉 right-click to open in a new tab)
+
 - 📷 Instagram: [@kresnawijaya\_\_](https://www.instagram.com/kresnawijaya__)
 - 🧵 Threads: [kresnawijaya\_\_](https://www.threads.net/@kresnawijaya__)
 - 🎥 TikTok: [@kresnawijaya\_](https://www.tiktok.com/@kresnawijaya_)
