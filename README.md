@@ -5,7 +5,7 @@
 ## 🙋‍♂️ About Me:
 
 - 🚀 **What I'm Up To:**  
-  I'm currently sharpening my skills and creativity in the [Playground on My Portfolio Website](https://kresna-portfolio.web.app/).
+  I'm currently sharpening my skills and creativity in the [Playground on My Portfolio Website](https://kresna-portfolio.web.app/) (👉 right-click to open in a new tab).
 
 - 📚 **Learning Journey:**  
   On a quest to master Golang, TypeScript, and Java. There's always something new to discover!
@@ -17,7 +17,7 @@
   Curious about my life before the code? Feel free to ask about my pre-programmer days!
 
 - 📧 **Reach Out:**  
-  Let's chat! Drop me an email at [kresnawijaya511@gmail.com](mailto:kresnawijaya511@gmail.com).
+  Let's chat! Drop me an email at [kresnawijaya511@gmail.com](mailto:kresnawijaya511@gmail.com) (👉 right-click to open in a new tab).
 
 - 😂 **Fun Fact:**  
   I sometimes forget where I put my glasses... while they're on my face. Classic!
