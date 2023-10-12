@@ -1,6 +1,6 @@
-# Hi there 👋, I'm [Nama Anda]!
+# Hi there 👋, I'm Kresna Wijaya!
 
-👨‍💻 I'm a passionate software developer from [Kota Anda, misalnya "Jakarta, Indonesia"]. I love coding, exploring new technologies, and turning ideas into realities.
+👨‍💻 I'm a passionate software developer from Jakarta, Indonesia". I love coding, exploring new technologies, and turning ideas into realities.
 
 ## 🤵 About Me:
 
@@ -19,9 +19,9 @@
 
 ## 📊 Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=kresnawijayaa&show_icons=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kresnawijayaa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 
