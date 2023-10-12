@@ -37,10 +37,42 @@
 
 ## 💼 Skills:
 
-![Java Badge](https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white)
-![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
+### Frontend:
+
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=black)
-... _(Tambahkan skill lainnya dengan format badge di atas)_
+![Vue.js Badge](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![React.js Badge](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=black)
+![React Native Badge](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![jQuery Badge](https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jquery&logoColor=white)
+
+### Backend:
+
+![Express.js Badge](https://img.shields.io/badge/-Express.js-gray?style=flat&logo=express&logoColor=white)
+![Sequelize.js Badge](https://img.shields.io/badge/-Sequelize.js-blue?style=flat)
+![REST API Badge](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
+
+### Databases:
+
+![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Cloud Firestore Badge](https://img.shields.io/badge/-Cloud%20Firestore-FFCA28?style=flat&logo=firebase&logoColor=white)
+
+### Infrastructure & Deployment:
+
+![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
+### Others:
+
+![OOP Badge](https://img.shields.io/badge/-OOP-5C2D91?style=flat)
+![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![Microservices Badge](https://img.shields.io/badge/-Microservices-FFCA28?style=flat)
+![Jest Badge](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
+![JWT Badge](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+![Redux.js Badge](https://img.shields.io/badge/-Redux.js-764ABC?style=flat&logo=redux&logoColor=white)
 
 ## 📊 Stats:
 
