@@ -24,9 +24,16 @@
 
 ## 🌍 Social Media:
 
-- 🐤 Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
-- 🌐 LinkedIn: [@your_linkedin_handle](https://linkedin.com/in/your_linkedin_handle)
-- 📷 Instagram: [@your_instagram_handle](https://instagram.com/your_instagram_handle)
+- 📷 Instagram: [@kresnawijaya\_\_](https://www.instagram.com/kresnawijaya__)
+- 🧵 Threads: [kresnawijaya\_\_](https://www.threads.net/@kresnawijaya__)
+- 🎥 TikTok: [@kresnawijaya\_](https://www.tiktok.com/@kresnawijaya_)
+- 🐤 Twitter: [@Kresnawijayaa](https://twitter.com/Kresnawijayaa)
+- 👤 Facebook: [Wijaya Ken](https://www.facebook.com/kresna.wijaya.77398/)
+- 🎶 Spotify: [Kresna Wijaya](https://open.spotify.com/user/0zg383bfafpv3akqdn5jm4kq0?si=vZ0ErrgfQ8yYkwj-78vj_g)
+- 💼 LinkedIn: [Kresna Wijaya](https://www.linkedin.com/in/kresnawijaya/)
+- 📺 YouTube: [Kresna Wijaya](https://www.youtube.com/@kresnawijaya5966)
+- 🖼️ Behance: [Kresna Wijaya](https://www.behance.net/kresnawijaya)
+- 🌐 Personal Blog/Website: [kresna-portfolio.web.app](https://kresna-portfolio.web.app/)
 
 ## 💼 Skills:
 
