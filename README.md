@@ -52,6 +52,7 @@
 
 ![Docker Badge](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Firebase Hosting Badge](https://img.shields.io/badge/-Firebase%20Hosting-FFA611?style=flat&logo=firebase&logoColor=white)
 
 ### Others:
 
