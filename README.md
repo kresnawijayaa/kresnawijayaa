@@ -100,6 +100,12 @@
 - Membuat Front-End Web - [Certificate](https://www.dicoding.com/certificates/EYX4YQN3RZDL) - Issued: October 2023
 - Cloud Practitioner Essentials (Dasar AWS Cloud) - [Certificate](https://www.dicoding.com/certificates/GRX52WMRVX0M) - Issued: October 2023
 
+### Forage, Inc ([Website](https://www.theforage.com)):
+
+- **Virtual Internship**
+- Skyscanner Front-End Software Engineering Virtual Experience Program - [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Skyscanner/km4rw7dihDr3etqom_Skyscanner_zYfjp6nAX3RpyZKhr_1697129593891_completion_certificate.pdf) - Issued: October 2023
+- Walmart USA Advanced Software Engineering Virtual Experience Program - [Certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Walmart%20USA/oX6f9BbCL9kJDJzfg_Walmart%20USA_zYfjp6nAX3RpyZKhr_1697125287850_completion_certificate.pdf) - Issued: October 2023
+
 ### BuildWithAngga:
 
 - Complete UI Designer: Visual Design, Prototype, Usability Testing - [Certificate](https://buildwithangga.com/) (qj1hWVNcVP) - Issued: October 2022
