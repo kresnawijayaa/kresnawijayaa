@@ -22,21 +22,6 @@
 - 😂 **Fun Fact:**  
   I sometimes forget where I put my glasses... while they're on my face. Classic!
 
-## 🌍 Social Media:
-
-(👉 right-click to open in a new tab)
-
-- 📷 Instagram: [@kresnawijaya\_\_](https://www.instagram.com/kresnawijaya__)
-- 🧵 Threads: [kresnawijaya\_\_](https://www.threads.net/@kresnawijaya__)
-- 🎥 TikTok: [@kresnawijaya\_](https://www.tiktok.com/@kresnawijaya_)
-- 🐤 Twitter: [@Kresnawijayaa](https://twitter.com/Kresnawijayaa)
-- 👤 Facebook: [Wijaya Ken](https://www.facebook.com/kresna.wijaya.77398/)
-- 🎶 Spotify: [Kresna Wijaya](https://open.spotify.com/user/0zg383bfafpv3akqdn5jm4kq0?si=vZ0ErrgfQ8yYkwj-78vj_g)
-- 💼 LinkedIn: [Kresna Wijaya](https://www.linkedin.com/in/kresnawijaya/)
-- 📺 YouTube: [Kresna Wijaya](https://www.youtube.com/@kresnawijaya5966)
-- 🖼️ Behance: [Kresna Wijaya](https://www.behance.net/kresnawijaya)
-- 🌐 Personal Blog/Website: [kresna-portfolio.web.app](https://kresna-portfolio.web.app/)
-
 ## 💼 Skills:
 
 ### Frontend:
@@ -113,6 +98,21 @@
 ### Skilvul:
 
 - UI/UX Design Mastery - [Certificate](https://badgr.com/public/assertions/3CC3pcsvQ1OWCv2BxvrB0w?identity__email=wkresna511.kw@gmail.com) (3CC3pcsvQ1OWCv2BxvrB0w) - Issued: August 2022
+
+## 🌍 Social Media:
+
+(👉 right-click to open in a new tab)
+
+- 📷 Instagram: [@kresnawijaya\_\_](https://www.instagram.com/kresnawijaya__)
+- 🧵 Threads: [kresnawijaya\_\_](https://www.threads.net/@kresnawijaya__)
+- 🎥 TikTok: [@kresnawijaya\_](https://www.tiktok.com/@kresnawijaya_)
+- 🐤 Twitter: [@Kresnawijayaa](https://twitter.com/Kresnawijayaa)
+- 👤 Facebook: [Wijaya Ken](https://www.facebook.com/kresna.wijaya.77398/)
+- 🎶 Spotify: [Kresna Wijaya](https://open.spotify.com/user/0zg383bfafpv3akqdn5jm4kq0?si=vZ0ErrgfQ8yYkwj-78vj_g)
+- 💼 LinkedIn: [Kresna Wijaya](https://www.linkedin.com/in/kresnawijaya/)
+- 📺 YouTube: [Kresna Wijaya](https://www.youtube.com/@kresnawijaya5966)
+- 🖼️ Behance: [Kresna Wijaya](https://www.behance.net/kresnawijaya)
+- 🌐 Personal Blog/Website: [kresna-portfolio.web.app](https://kresna-portfolio.web.app/)
 
 💼 **Looking for a new opportunity?** Let's collaborate and make something amazing!
 
