@@ -37,6 +37,7 @@
 
 ### Backend:
 
+![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js Badge](https://img.shields.io/badge/-Express.js-gray?style=flat&logo=express&logoColor=white)
 ![Sequelize.js Badge](https://img.shields.io/badge/-Sequelize.js-blue?style=flat)
 ![REST API Badge](https://img.shields.io/badge/-REST%20API-02569B?style=flat)
