@@ -8,7 +8,7 @@
   I'm currently sharpening my skills and creativity in the [Playground on My Portfolio Website](https://kresna-portfolio.web.app/) (👉 right-click to open in a new tab).
 
 - 📚 **Learning Journey:**  
-  On a quest to master Golang, TypeScript, and Java. There's always something new to discover!
+  On a quest to learn Golang. There's always something new to discover!
 
 - 🤝 **Collaboration:**  
   Eager to join forces on projects where we can learn, innovate, and grow together.
