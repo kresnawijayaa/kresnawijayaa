@@ -19,4 +19,4 @@ I am a software engineer focused on building scalable, user-centric applications
 When I'm not writing code, optimizing database queries, or exploring new frameworks, you can usually find me brewing a proper cup of coffee or out on the pavement. I am an avid runner currently training for my next full marathon—because discipline and endurance are just as important in life as they are in software engineering!
 
 ### 📫 Let's Connect
-[Portfolio Website](https://kresna-portfolio.web.app/) • [LinkedIn](https://www.linkedin.com/in/kresnawijaya/) • [Email](mailto:kresnawijaya511@gmail.com)
+[Portfolio Website](https://kresnawijaya.web.id/) • [LinkedIn](https://www.linkedin.com/in/kresnawijaya/) • [Email](mailto:kresnawijaya511@gmail.com)
